@@ -1,5 +1,5 @@
 # from methods_help import method_help
-from functions import function, welcome, add_numbers, num_dividedFrom_add_numbers
+from functions import function, welcome, add_numbers, num_dividedFrom_add_numbers, greet, square
 # from returnStuff import returnS
 
 # method_help()
@@ -10,4 +10,7 @@ print(added)
 
 final = num_dividedFrom_add_numbers(45, added)
 print(final)
+
+sqr=square(7)
+print(sqr)
 # returnS()
