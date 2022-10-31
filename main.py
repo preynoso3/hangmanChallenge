@@ -7,7 +7,8 @@ from dynamic_functions import check_3Digits
 # welcome("")
 # added = add_numbers(4,5)
 # print(added)
-result = check_3Digits(95)
+# sum = 526+345
+result = check_3Digits([55,99,600,78,120,1,253,682])
 print (result)
 # final = num_dividedFrom_add_numbers(45, added)
 # print(final)
